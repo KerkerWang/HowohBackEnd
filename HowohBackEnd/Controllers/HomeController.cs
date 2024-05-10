@@ -11,6 +11,7 @@ namespace HowohBackEnd.Controllers
         public ActionResult Index()
         {
             ViewBag.Title = "Home Page";
+            //test
 
             return View();
         }
