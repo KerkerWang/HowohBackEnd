@@ -1,0 +1,8 @@
+.vs/                      
+packages/                  
+HowohBackEnd/bin/       
+HowohBackEnd/Content/   
+HowohBackEnd/obj/       
+HowohBackEnd/Scripts/
+*.user
+*.config
